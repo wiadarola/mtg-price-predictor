@@ -24,7 +24,7 @@ Magic The Gathering is one of the most popular trading card games. This reposito
 
 1. Clone this repository:
 ```
-git clone https://github.com/your_username/mtg-price-predictor.git
+git clone https://github.com/wiadarola/mtg-price-predictor.git
 ```
 3. Navigate to the directory:
 ```
