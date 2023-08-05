@@ -23,7 +23,11 @@ Magic The Gathering is one of the most popular trading card games. This reposito
 ## Installation
 
 1. Clone this repository:
+```
 git clone https://github.com/your_username/mtg-price-predictor.git
-2. Navigate to the directory:
+```
+3. Navigate to the directory:
+```
 cd mtg-price-predictor
-3. Run the Jutyter Notebook
+```
+5. Run the Jutyter Notebook
