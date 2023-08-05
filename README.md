@@ -7,9 +7,6 @@ Predict the price of MTG cards using various regression models and also classify
 - [Overview](#overview)
 - [Models Used](#models-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -29,21 +26,4 @@ Magic The Gathering is one of the most popular trading card games. This reposito
 git clone https://github.com/your_username/mtg-price-predictor.git
 2. Navigate to the directory:
 cd mtg-price-predictor
-3. Install the required libraries:
-pip install -r requirements.txt
-
-## Usage
-
-1. Train the models:
-python train.py
-2. To predict the price or category of a card:
-python predict.py --model [model_name] --input [path_to_input_data]
-Replace `[model_name]` with the model of your choice (linear, ridge, lasso, logistic, svm) and `[path_to_input_data]` with the path to your input data file.
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues](https://github.com/your_username/mtg-price-predictor/issues) page.
-
-## License
-
-MIT License. See `LICENSE` for more information.
+3. Run the Jutyter Notebook
