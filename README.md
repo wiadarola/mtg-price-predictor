@@ -1,6 +1,6 @@
 # Magic The Gathering (MTG) Card Price Predictor
 
-The project uses regression techniques to estimate the price of creature-typed Magic the Gathering cards. It further classifies each card by its value, determining if it's priced above or below $1. This categorization aids players in budget-focused decisions during the period after an expansion releases when card prices fluctuate rapidly. The project is purposed to inform players about the possible stabalized price of a card and to aid in making card purchasing decisions.
+The project uses regression techniques to estimate the price of creature-typed Magic the Gathering cards. It further classifies each card by its value, determining if it's priced above or below $1. This categorization aids players in budget-focused decisions during the period after an expansion releases when card prices fluctuate rapidly. The project is purposed to inform players about the possible stabilized price of a card and to aid in making card purchasing decisions.
 
 ## Table of Contents
 
